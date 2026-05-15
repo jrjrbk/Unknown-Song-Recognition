@@ -32,7 +32,7 @@ A university final year project titled Unknown Song Recognition on Mobile Phone 
 <img width="269" height="599" alt="image" src="https://github.com/user-attachments/assets/d85835fa-3ce5-4f9e-98c8-0a4bc0121933" />
 <img width="269" height="599" alt="image" src="https://github.com/user-attachments/assets/0301757e-fbf4-44bc-b0a0-f31785288b1d" />
 <img width="269" height="599" alt="image" src="https://github.com/user-attachments/assets/d7ecb379-dfce-4e10-a523-bf4eb58b1884" />
-<img width="393" height="876" alt="image" src="https://github.com/user-attachments/assets/efbb523b-c278-4b72-8a8c-a00076a056b1" />
+<img width="269" height="599" alt="image" src="https://github.com/user-attachments/assets/efbb523b-c278-4b72-8a8c-a00076a056b1" />
 
 
 
